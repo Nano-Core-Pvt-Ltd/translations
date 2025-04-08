@@ -5,9 +5,11 @@
     "Profile": "Profile",
     "Following": "Following",
     "Fans": "Fans",
+    "Fanflow": "Fanflow",
     "Likes": "Likes",
     "Setup Profile": "Setup Profile",
     "Message": "Message",
+    "Settings": "Settings",
     "Settings & Privacy": "Settings & Privacy",
     "Account": "Account",
     "Privacy": "Privacy",
@@ -36,5 +38,10 @@
     "Update Profile": "Update Profile",
     "Visibility": "Visibility",
     "Empty": "Empty",
-    "You may like": "You may like"
+    "You may like": "You may like",
+    "Chats": "Chats",
+    "Private Account means that only people you approve can follow you and see your content.": "Private Account means that only people you approve can follow you and see your content.",
+    "Blocked Accounts": "Blocked Accounts",
+    "Block": "Block",
+    "Unblock": "Unblock"
 }

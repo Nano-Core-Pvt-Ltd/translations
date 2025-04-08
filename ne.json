@@ -4,10 +4,12 @@
     "Inbox": "इनबक्स",
     "Profile": "प्रोफाइल",
     "Following": "अनुगामी",
-    "Fans": "प्रशंसकहरू",
+    "Fans": "फ्यानहरू",
+    "Fanflow": "फ्यानफ्लो",
     "Likes": "लाइकहरू",
     "Setup Profile": "प्रोफाइल सेटअप",
     "Message": "सन्देश",
+    "Settings": "सेटिङ्ग्स",
     "Settings & Privacy": "सेटिङ्ग्स र गोपनीयता",
     "Account": "अकाउंट",
     "Privacy": "गोपनीयता",
@@ -36,5 +38,10 @@
     "Update Profile": "प्रोफाइल अपडेट गर्नुहोस्",
     "Visibility": "दृश्यता",
     "Empty": "खाली",
-    "You May Like": "तपाईलाई मन पर्न सक्छ"
+    "You May Like": "तपाईलाई मन पर्न सक्छ",
+    "Chats": "च्याटहरू",
+    "Private Account means that only people you approve can follow you and see your content.": "निजी खाताको अर्थ तपाईंले अनुमोदन गर्नुभएका व्यक्तिहरूले मात्र तपाईंलाई पछ्याउन र तपाईंको सामग्री हेर्न सक्छन्।",
+    "Blocked Accounts": "अवरुद्ध खाताहरू",
+    "Block": "ब्लक गर्नुहोस्",
+    "Unblock": "अनब्लक गर्नुहोस्"
 }
