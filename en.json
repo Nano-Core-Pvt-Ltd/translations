@@ -17,7 +17,7 @@
     "Profile Verification": "Profile Verification",
     "Display": "Display",
     "Notifications": "Notifications",
-    "Langugae": "Langugae",
+    "Language": "Language",
     "Others": "Others",
     "Report a problem": "Report a problem",
     "Support": "Support",
@@ -43,5 +43,8 @@
     "Private Account means that only people you approve can follow you and see your content.": "Private Account means that only people you approve can follow you and see your content.",
     "Blocked Accounts": "Blocked Accounts",
     "Block": "Block",
-    "Unblock": "Unblock"
+    "Unblock": "Unblock",
+    "Change Password": "Change Password",
+    "Manage Devices": "Manage Devices",
+    "Delete Account": "Delete Account"
 }

@@ -42,6 +42,9 @@
     "Chats": "च्याटहरू",
     "Private Account means that only people you approve can follow you and see your content.": "निजी खाताको अर्थ तपाईंले अनुमोदन गर्नुभएका व्यक्तिहरूले मात्र तपाईंलाई पछ्याउन र तपाईंको सामग्री हेर्न सक्छन्।",
     "Blocked Accounts": "अवरुद्ध खाताहरू",
-    "Block": "ब्लक गर्नुहोस्",
-    "Unblock": "अनब्लक गर्नुहोस्"
+    "Block": "ब्लक",
+    "Unblock": "अनब्लक",
+    "Change Password": "पासवर्ड परिवर्तन गर्नुहोस्",
+    "Manage Devices": "यन्त्रहरू व्यवस्थापन गर्नुहोस्",
+    "Delete Account": "खाता मेटाउनुहोस्"
 }
