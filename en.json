@@ -46,5 +46,11 @@
     "Unblock": "Unblock",
     "Change Password": "Change Password",
     "Manage Devices": "Manage Devices",
-    "Delete Account": "Delete Account"
+    "Delete Account": "Delete Account",
+    "Are you sure you want to delete your account? Deleting your account will permanently remove all your data and cannot be undone.": "Are you sure you want to delete your account? Deleting your account will permanently remove all your data and cannot be undone.",
+    "Delete": "Delete",
+    "Cancel": "Cancel",
+    "Current Password": "Current Password",
+    "New Password": "New Password",
+    "Confirm New Password": "Confirm New Password"
 }

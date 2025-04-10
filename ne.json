@@ -46,5 +46,11 @@
     "Unblock": "अनब्लक",
     "Change Password": "पासवर्ड परिवर्तन गर्नुहोस्",
     "Manage Devices": "यन्त्रहरू व्यवस्थापन गर्नुहोस्",
-    "Delete Account": "खाता मेटाउनुहोस्"
+    "Delete Account": "खाता मेटाउनुहोस्",
+    "Are you sure you want to delete your account? Deleting your account will permanently remove all your data and cannot be undone.": "के तपाईं आफ्नो खाता मेटाउन निश्चित हुनुहुन्छ? आफ्नो खाता मेटाउनाले तपाईंको सबै डेटा स्थायी रूपमा मेटिनेछ र यसलाई पूर्ववत गर्न सकिँदैन।",
+    "Delete": "मेट्नुहोस्",
+    "Cancel": "रद्द",
+    "Current Password": "हालको पासवर्ड",
+    "New Password": "नयाँ पासवर्ड",
+    "Confirm New Password": "नयाँ पासवर्ड पुष्टि गर्नुहोस्"
 }
