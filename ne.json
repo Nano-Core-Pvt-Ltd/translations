@@ -106,7 +106,7 @@
     "Buy Now": "अहिले किन्नुहोस्",
     "Coin History": "सिक्का इतिहास",
     "No coin transactions yet. Start by buying your first coins!": "अहिलेसम्म कुनै सिक्का लेनदेन छैन। आफ्नो पहिलो सिक्का किनेर सुरु गर्नुहोस्!",
-    "Purchased {} coins for {}": "{} को लागि {} सिक्का खरिद गरियो",
+    "Purchased {} coins for {}": "{} सिक्का {} मा खरिद गरियो",
     "Redeemed {} coins.": "{} सिक्का रिडिम गरियो।",
     "Gift History": "उपहार इतिहास",
     "No gift transactions yet. Start by sending your first gift!": "अहिलेसम्म कुनै उपहार लेनदेन छैन। आफ्नो पहिलो उपहार पठाएर सुरु गर्नुहोस्!",
@@ -122,5 +122,9 @@
     "IFSC Code": "IFSC कोड",
     "PayPal Email or Username": "पेपाल इमेल वा प्रयोगकर्ता नाम",
     "Withdraw History": "निकासी इतिहास",
-    "No Withdraw transactions yet.": "अहिलेसम्म कुनै निकासी लेनदेन छैन।"
+    "No Withdraw transactions yet.": "अहिलेसम्म कुनै निकासी लेनदेन छैन।",
+    "Your withdrawal has been successfully processed and the amount has been sent to your account.": "तपाईंको निकासी सफलतापूर्वक प्रक्रियामा गएको छ र रकम तपाईंको खातामा पठाइएको छ।",
+    "Your withdrawal request was rejected.": "तपाईंको निकासी अनुरोध अस्वीकृत गरिएको थियो।",
+    "Your withdrawal request was cancelled.": "तपाईंको निकासी अनुरोध रद्द गरिएको थियो।",
+    "Your withdrawal request is under review and will be processed within 7-14 business days.": "तपाईंको निकासी अनुरोध समीक्षा प्रक्रियामा छ र ७–१४ कार्य दिनभित्र प्रक्रिया गरिनेछ।"
 }

@@ -122,5 +122,9 @@
     "IFSC Code": "IFSC Code",
     "PayPal Email or Username": "PayPal Email or Username",
     "Withdraw History": "Withdraw History",
-    "No Withdraw transactions yet.": "No Withdraw transactions yet."
+    "No Withdraw transactions yet.": "No Withdraw transactions yet.",
+    "Your withdrawal has been successfully processed and the amount has been sent to your account.": "Your withdrawal has been successfully processed and the amount has been sent to your account.",
+    "Your withdrawal request was rejected.": "Your withdrawal request was rejected.",
+    "Your withdrawal request was cancelled.": "Your withdrawal request was cancelled.",
+    "Your withdrawal request is under review and will be processed within 7-14 business days.": "Your withdrawal request is under review and will be processed within 7-14 business days."
 }
