@@ -126,5 +126,6 @@
     "Your withdrawal has been successfully processed and the amount has been sent to your account.": "आपकी निकासी सफलतापूर्वक पूरी हो गई है और राशि आपके खाते में भेज दी गई है।",
     "Your withdrawal request was rejected.": "आपका निकासी अनुरोध अस्वीकार कर दिया गया है।",
     "Your withdrawal request was cancelled.": "आपका निकासी अनुरोध रद्द कर दिया गया है।",
-    "Your withdrawal request is under review and will be processed within 7-14 business days.": "आपका निकासी अनुरोध समीक्षा में है और इसे 7-14 कार्यदिवसों के भीतर पूरा किया जाएगा।"
+    "Your withdrawal request is under review and will be processed within 7-14 business days.": "आपका निकासी अनुरोध समीक्षा में है और इसे 7-14 कार्यदिवसों के भीतर पूरा किया जाएगा।",
+    "No tags found": "कोई टैग नहीं मिला"
 }
